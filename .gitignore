@@ -1,0 +1,28 @@
+# Ignore Python virtual environment
+recom/
+
+# Ignore secret environment variables
+.env
+
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore local cache and logs (but NOT .pkl or .index)
+*.cache
+*.log
+*.sqlite
+poster_cache.json
+
+# Ignore OS-specific and IDE-specific files
+.DS_Store
+*.swp
+*.bak
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore Jupyter/IPython artifacts
+.ipynb_checkpoints/

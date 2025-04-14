@@ -1,0 +1,9 @@
+flask
+pandas
+numpy
+scikit-learn
+sentence-transformers
+requests
+rapidfuzz
+faiss-cpu
+python-dotenv
