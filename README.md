@@ -17,6 +17,10 @@ It is designed to be used in:
 - AI-powered search demos or GenAI interfaces
 - Academic or portfolio-grade machine learning projects
 
+## Demo
+
+![Movie Recommendation Demo](https://github.com/user-attachments/assets/9adbe901-4f09-4824-aa3c-55fbbcd85691)
+
 ---
 
 ## Dataset
