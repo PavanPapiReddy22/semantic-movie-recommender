@@ -198,5 +198,5 @@ Use this key in your `.env` file to enable poster fetching.
 ## License
 
 This project is licensed under the MIT License.
-```
+
 
